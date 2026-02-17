@@ -1,0 +1,7 @@
+{
+  "name": " Realmall E-commerce",
+  "description": "Premium e-commerce for watches and sunglasses. Shop securely with us and personalize your style using Gemini AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
